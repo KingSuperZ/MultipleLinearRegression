@@ -2,4 +2,6 @@
 This code takes any set of 3D data points, with 2D features and 1D targets, and finds a plane of best fit through it by using gradient descent.
 
 ![Image](MLR3DPlot.png)
+
+## The Derivation of the Gradient Descent Algorithm for Multiple Linear Regression
 ![Image](Calculus_page-0001.jpg)
